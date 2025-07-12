@@ -2,10 +2,6 @@
 
 
 
-Here’s a polished and professional description for your **n8n\_backup\_workflow** that automatically saves your workflows to GitHub:
-
----
-
 ## 🔐 **n8n Workflow Backup to GitHub – Automated & Enterprise-Grade**
 
 **Protect and version-control your automation logic effortlessly**: this n8n workflow automatically exports your entire set of workflows to a GitHub repository—no manual steps, no risk of data loss.
