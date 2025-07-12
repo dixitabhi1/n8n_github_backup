@@ -56,7 +56,6 @@ Elevate your workflow management with enterprise-grade backups: automated, relia
 
 **sources**
 [1]: https://n8n.io/workflows/4064-automated-daily-workflow-backup-to-github/?utm_source=chatgpt.com "Automated daily workflow backup to GitHub - N8N"
-
 [2]: https://n8n.io/workflows/4609-automatic-workflow-and-credentials-backup-to-github-with-change-detection/?utm_source=chatgpt.com "Automatic Workflow & Credentials Backup to GitHub with Change ..."
 [3]: https://www.youtube.com/watch?v=ECKY8Ar4DG4&utm_source=chatgpt.com "Automatically Backup Your n8n Workflows Using Github ... - YouTube"
 [4]: https://github.com/anilrajrimal1/n8n-backups?utm_source=chatgpt.com "anilrajrimal1/n8n-backups - GitHub"
