@@ -51,14 +51,8 @@
 3. **Adjust settings**: specify repo owner, name, branch, and backup folder.
 4. **Activate** the workflow and let it run on schedule.
 
----
-
-
----
 
 Elevate your workflow management with enterprise-grade backups: automated, reliable, versioned, and ready for immediate recovery. Let me know if you’d like help with customization, Docker Compose integration, or adding notification alerts!
-
-
 
 **sources**
 [1]: https://n8n.io/workflows/4064-automated-daily-workflow-backup-to-github/?utm_source=chatgpt.com "Automated daily workflow backup to GitHub - N8N"
